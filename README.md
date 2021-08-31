@@ -1,2 +1,2 @@
 # rsschool-cv
-rsschool cv task
+https://anastasia-v-m.github.io/rsschool-cv/cv
