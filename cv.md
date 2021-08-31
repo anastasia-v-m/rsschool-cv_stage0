@@ -1,9 +1,12 @@
 ### Matushevskaya Anastasia ###
 
 **Contact information**
+
 matushevskayaanastasia@gmail.com
 
+
 **About me**
+
 I graduated from Polotsk State University with a degree in Finance and Credit. Now I work in technical support in a large holding. Working in the IT sphere fascinated me and I want to further develop in this direction. Thus, I decided to master the front-end direction.
 Now I study technology:
 1. HTML
@@ -38,10 +41,13 @@ Now I study technology:
             document.getElementsByName('blur')[0].value = "0";
 
             inputs.forEach(input => handleUpdate.call(input));
-        }```
+        }
+```
 		
 **Expirience**
+
 I work in technical support for 7 years.
 
 **English language**
+
 B1
