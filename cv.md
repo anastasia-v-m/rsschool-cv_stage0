@@ -17,7 +17,8 @@ Now I study technology:
 
 [full work](https://rolling-scopes-school.github.io/anastasia-v-m-JSFEPRESCHOOL/js30-2/)
 
-```function changeImg() {
+```javascript
+function changeImg() {
             let prefix = (event.target.id);
 
             if (prefix === "reset_btn") {
