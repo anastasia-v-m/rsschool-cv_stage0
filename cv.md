@@ -2,16 +2,26 @@
 
 **Contact information**
 
-matushevskayaanastasia@gmail.com
+e-mail: matushevskayaanastasia@gmail.com
+git: anastasia-v-m
 
 
 **About me**
 
-I graduated from Polotsk State University with a degree in Finance and Credit. Now I work in technical support in a large holding. Working in the IT sphere fascinated me and I want to further develop in this direction. Thus, I decided to master the front-end direction.
-Now I study technology:
-1. HTML
-1. CSS
-1. JS
+I have a higher education in economics. And some experience in sales and economics let me understand that this is not what I want develop in future. 
+Since 2015 I work as an 1S programmer. And I want to achieve more in programming. So I have started to study JavaScript by myself on learn.javascript.ru. Now during RSSchool course I am going to structure my knowledge, gain hands-on experience and master skills to apply for a position of a junior JavaScript developer.
+
+My soft skills:
+* Discipline
+* Purposefulness
+* Communication skills
+
+My hard skills (base level):
+* HTML
+* CSS
+* JavaScript
+* Git
+* SQL
 
 **Code example**
 
@@ -50,7 +60,7 @@ function changeImg() {
 		
 **Expirience**
 
-I work in technical support for 7 years.
+I work in IT for 6 years.
 
 **English language**
 
